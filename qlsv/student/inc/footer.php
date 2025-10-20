@@ -1,0 +1,1 @@
+<h6 class="text-center bg-1 text-white p-3 m-0 fst-normal fs-5">Được thiết kế và phát triển bởi Trần Mạnh Tấn</h6>  
